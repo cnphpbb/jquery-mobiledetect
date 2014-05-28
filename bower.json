@@ -3,6 +3,6 @@
     "version": "0.0.9",
     "main": "detectmobilebrowser.js",
     "dependencies": {
-        "jquery": "1.10.2"
+        "jquery": ">=1.10.0"
     }
 }
